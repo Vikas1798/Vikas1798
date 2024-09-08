@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm VIKAS H K</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 
-<p align="center">- 🌱 I’m currently learning **React Native**</p>
+<p align="center">- 🌱 I’m currently learning **Nextjs**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
