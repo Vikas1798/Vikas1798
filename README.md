@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" src="developer.gif"/>
+<img align="center" alt="Coding" width="100%" height="50%" src="developer.gif"/>
 <h1 align="center">Hi 👋, I'm VIKAS H K</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 
