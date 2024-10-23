@@ -59,3 +59,11 @@
       <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" alt="babel" width="40" height="40"/> 
     </a> 
 </p>
+<h2></h2>
+<h3 align="start">Connect with me:</h3>
+<a href="mailto:vikas17.hk@gmail.com" target="_blank" rel="noreferrer"> 
+      <img src="https://camo.githubusercontent.com/e5cfad4cbb1e023463333923b069b81749d94e8ff5722f851c7bb01d65bb0e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="mail" width="100" height="30"/> 
+    </a>
+    <a href="https://linkedin.com/in/vikas-hk-frontend" target="_blank" rel="noreferrer"> 
+      <img src="https://camo.githubusercontent.com/7c2145551dc29c09205720b1acea43652035cc0f1eb46278acc400f1c1fc59a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="mail" width="100" height="30"/> 
+    </a>
