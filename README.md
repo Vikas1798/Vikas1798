@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="100%" height="50%" src="developer.gif"/>
 <p align="start">
 <a href="https://linkedin.com/in/vikas-hk-frontend" target="blank">
- <img align="center" src="https://camo.githubusercontent.com/7c2145551dc29c09205720b1acea43652035cc0f1eb46278acc400f1c1fc59a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="vikas-hk-frontend" width="30%"/>
+ <img align="center" src="https://camo.githubusercontent.com/7c2145551dc29c09205720b1acea43652035cc0f1eb46278acc400f1c1fc59a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="vikas-hk-frontend" width="20%"/>
 </a>
 </p>
 <h3 align="start">Hi 👋, I'm Vikas, Frontend developer from India</h3>
