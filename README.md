@@ -10,6 +10,7 @@
 </p>
 <h3 align="start">Hi 👋, I'm Vikas, Frontend developer from India</h3>
 <p align="start">As a frontend developer, I translate creative visions into functional realities, continuously building projects, learning new skills, and sharing my journey on GitHub while seeking collaboration on web-based projects.</p>
+<h2></h2>
 <!-- <h3 align="center">A Passionate Web Developer</h3>
  -->
 <!-- <p align="center">- 🌱 I’m currently learning **Next.js**</p>
